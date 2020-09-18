@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: #fff;
+  height: 80px;
+  width: 370px;
+  border-radius: 20px;
+  padding: 10px;
+  border-bottom: 10px solid #097ef9;
+  cursor: pointer;
+  box-shadow: 0 0 5px 0 #9b9797;
+  transition: bottom 250ms ease-in;
+}
+
+.hide {
+  display: none;
+}
+
+.container:hover {
+  bottom: 30px;
+}
+
+.message {
+  color: #2f3c4e;
+}
+
+.message h3 {
+  margin: 0.5em 0;
+  line-height: 20px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  background: #5795fa;
+  padding: 10px;
+  border-radius: 10px;
+}
