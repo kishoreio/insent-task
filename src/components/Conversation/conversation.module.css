@@ -1,0 +1,99 @@
+.container {
+  height: 550px;
+  width: 370px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  overflow: hidden;
+  border-bottom: 4em solid #097ef9;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 0 5px 0 #9b9797;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  height: 4.5rem;
+  background: #ffffff;
+  box-shadow: 0 0 3px 0 #505050;
+}
+
+.banner span {
+  background: #ecedef;
+  padding: 0.3em;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.bannerImage {
+  background: #5795fa;
+  padding: 0.5em;
+  border-radius: 50%;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.bannerImage,
+.botImage {
+  width: 30px;
+  height: 30px;
+}
+
+.bannerContent h3,
+.bannerContent p {
+  margin: 0;
+}
+
+.bannerContent p {
+  font-size: 0.8rem;
+  color: #7b7b7b;
+}
+
+.chatBox {
+  width: 100%;
+  height: 90%;
+  overflow: auto;
+}
+
+.bot,
+.widget {
+  display: flex;
+  align-items: center;
+  margin: 0.5em 0;
+}
+
+.widget {
+  justify-content: flex-end;
+}
+
+.bot p,
+.widget p {
+  margin: 0;
+}
+
+.bot img,
+.bot div {
+  margin: 5px;
+}
+
+.bot div {
+  color: #3d4e63;
+  background: #edf0f7;
+  padding: 0.8em;
+  border-radius: 10px 10px 10px 2px;
+}
+
+.widget div {
+  color: #fff;
+  background: #5795fa;
+  padding: 0.8em;
+  border-radius: 10px 10px 2px 10px;
+  margin: 0 0.5em;
+}
