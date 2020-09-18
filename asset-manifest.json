@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/insent-task/static/css/main.46ac6e8c.chunk.css",
+    "main.js": "/insent-task/static/js/main.f380daeb.chunk.js",
+    "main.js.map": "/insent-task/static/js/main.f380daeb.chunk.js.map",
+    "runtime-main.js": "/insent-task/static/js/runtime-main.0ca76ca1.js",
+    "runtime-main.js.map": "/insent-task/static/js/runtime-main.0ca76ca1.js.map",
+    "static/js/2.d76cdf7f.chunk.js": "/insent-task/static/js/2.d76cdf7f.chunk.js",
+    "static/js/2.d76cdf7f.chunk.js.map": "/insent-task/static/js/2.d76cdf7f.chunk.js.map",
+    "index.html": "/insent-task/index.html",
+    "precache-manifest.88dd38d86e63d97163bafb6ec79c6d75.js": "/insent-task/precache-manifest.88dd38d86e63d97163bafb6ec79c6d75.js",
+    "service-worker.js": "/insent-task/service-worker.js",
+    "static/css/main.46ac6e8c.chunk.css.map": "/insent-task/static/css/main.46ac6e8c.chunk.css.map",
+    "static/js/2.d76cdf7f.chunk.js.LICENSE.txt": "/insent-task/static/js/2.d76cdf7f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/insent-task/static/media/logo.cccde26f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca76ca1.js",
+    "static/js/2.d76cdf7f.chunk.js",
+    "static/css/main.46ac6e8c.chunk.css",
+    "static/js/main.f380daeb.chunk.js"
+  ]
+}
